@@ -50,7 +50,6 @@ Right now that means building agentic systems that actually retrieve and reason 
 ## Featured Projects
 
 ### 🤖 [Tarka.AI — Agentic RAG Knowledge Platform](https://github.com/Ankitpatidar01/Tarka-AI)
-
 An AI-powered multi-agent conversational platform combining RAG, tool integration, and document retrieval to answer questions grounded in real knowledge sources — not just the model's memory.
 
 - **What it solves:** getting LLMs to answer reliably from a private knowledge base instead of hallucinating
@@ -61,7 +60,6 @@ An AI-powered multi-agent conversational platform combining RAG, tool integratio
 ---
 
 ### 🛍️ [CARA — Production-Ready MERN E-Commerce Platform](https://github.com/Ankitpatidar01/CARA-MERN-ECommerce)
-
 A full-stack e-commerce web application built to learn real-world backend architecture end to end — not just CRUD, but auth, payments, and order flow together.
 
 - **What it solves:** the full commerce loop — browsing, cart, secure checkout, and order management — in one cohesive system
@@ -72,7 +70,6 @@ A full-stack e-commerce web application built to learn real-world backend archit
 ---
 
 ### 🎤 [AI Interview Preparation Platform](https://github.com/Ankitpatidar01/AI-Interview-Preparation-Platform)
-
 An AI-powered platform for interview prep, combining resume analysis with personalized interview question generation.
 
 - **What it solves:** generic interview prep — this ties the questions to the candidate's actual resume
@@ -83,7 +80,6 @@ An AI-powered platform for interview prep, combining resume analysis with person
 ---
 
 ### 📖 [Gen_AI — Generative AI Learning Journey](https://github.com/Ankitpatidar01/Gen_AI)
-
 A running repository of hands-on Generative AI work — LangChain implementations, prompt engineering experiments, and RAG systems.
 
 - **What it is:** the lab notebook behind everything above — where I first build and break things before they graduate into real projects like Tarka.AI
@@ -95,27 +91,22 @@ A running repository of hands-on Generative AI work — LangChain implementation
 ## Technology Stack
 
 **Languages**
-
 <p><img src="https://skillicons.dev/icons?i=python,js,java" alt="languages"/></p>
 
 **AI / Machine Learning**
 `LLMs` · `RAG` · `LangChain` · `LangGraph` · `Sentence Transformers` · `FAISS` · `ChromaDB` · `Prompt Engineering`
 
 **Frontend**
-
 <p><img src="https://skillicons.dev/icons?i=react,html,css,js" alt="frontend"/></p>
 
 **Backend**
-
 <p><img src="https://skillicons.dev/icons?i=nodejs,express" alt="backend"/></p>
 
 **Databases**
-
 <p><img src="https://skillicons.dev/icons?i=mongodb" alt="databases"/></p>
 `MongoDB` · `Mongoose` · `SQL (JDBC)`
 
 **Tools & Platforms**
-
 <p><img src="https://skillicons.dev/icons?i=git,github,postman" alt="tools"/></p>
 `Streamlit`
 
@@ -152,8 +143,8 @@ I'd rather have a rough, running prototype than a polished idea on paper. Every 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankitpatidar01&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ankit's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitpatidar01&theme=dark&hide_border=true" alt="Ankit's GitHub streak" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Ankitpatidar01&show_icons=true&theme=dark&hide_border=true" alt="Ankit's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ankitpatidar01&theme=dark&hide_border=true" alt="Ankit's GitHub streak" height="165"/>
 </p>
 
 ---
