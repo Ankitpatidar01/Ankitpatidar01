@@ -1,6 +1,11 @@
-<h1 align="center">Hi, I'm Ankit Patidar 👋</h1>
-<h3 align="center">AI & Full-Stack Developer — building intelligent, real-world products</h3>
- 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=200&section=header&text=Ankit%20Patidar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=20" alt="header banner" width="100%"/>
+</p>
+<p align="center">
+  <a href="https://github.com/Ankitpatidar01">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=560&lines=Building+intelligent%2C+real-world+products;Agentic+RAG+%2B+Multi-Agent+Systems;MERN+Stack+%2B+Generative+AI;Learning+%E2%86%92+Building+%E2%86%92+Applying" alt="Typing SVG"/>
+  </a>
+</p>
 <p align="center">
   <a href="https://github.com/Ankitpatidar01"><img src="https://img.shields.io/badge/GitHub-Ankitpatidar01-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <!-- Add your LinkedIn / email / portfolio badges here, e.g.: -->
@@ -10,8 +15,9 @@
 <p align="center">
   NITian · National Institute of Technology, Warangal (MCA)
 </p>
----
- 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D4FF&height=3&width=100%25" alt="divider" width="100%"/>
+</p>
 ## About Me
  
 I'm an MCA student at NIT Warangal who learns by shipping — I'd rather build a working RAG pipeline or a full checkout flow than just read about one. My work sits at the intersection of two things I care about: **applied AI** and **full-stack engineering**.
